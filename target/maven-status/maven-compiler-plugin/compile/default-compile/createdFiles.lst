@@ -1,0 +1,9 @@
+PageObjectModelMultiBrowserHW\LoadProp.class
+PageObjectModelMultiBrowserHW\Utils.class
+PageObjectModelMultiBrowserHW\HomePage.class
+PageObjectModelMultiBrowserHW\BasePage.class
+PageObjectModelMultiBrowserHW\ShoppingCart.class
+PageObjectModelMultiBrowserHW\BrowserSelector.class
+PageObjectModelMultiBrowserHW\RegistrationPage.class
+PageObjectModelMultiBrowserHW\ReferAProductToFriend.class
+PageObjectModelMultiBrowserHW\LogInPage.class
